@@ -1,0 +1,371 @@
+{"source": "source.scss, meta.property-value.scss","completions":[{"trigger": "ok-sign
+ \t katy-icons", "contents": "ok-sign
+" },{"trigger": "remove-sign
+ \t katy-icons", "contents": "remove-sign
+" },{"trigger": "exclamation-sign
+ \t katy-icons", "contents": "exclamation-sign
+" },{"trigger": "warning-sign
+ \t katy-icons", "contents": "warning-sign
+" },{"trigger": "search
+ \t katy-icons", "contents": "search
+" },{"trigger": "filter
+ \t katy-icons", "contents": "filter
+" },{"trigger": "envelope
+ \t katy-icons", "contents": "envelope
+" },{"trigger": "flag
+ \t katy-icons", "contents": "flag
+" },{"trigger": "follow
+ \t katy-icons", "contents": "follow
+" },{"trigger": "thumbs-up
+ \t katy-icons", "contents": "thumbs-up
+" },{"trigger": "comment
+ \t katy-icons", "contents": "comment
+" },{"trigger": "fire
+ \t katy-icons", "contents": "fire
+" },{"trigger": "plus-sign
+ \t katy-icons", "contents": "plus-sign
+" },{"trigger": "minus-sign
+ \t katy-icons", "contents": "minus-sign
+" },{"trigger": "ok
+ \t katy-icons", "contents": "ok
+" },{"trigger": "remove
+ \t katy-icons", "contents": "remove
+" },{"trigger": "cog
+ \t katy-icons", "contents": "cog
+" },{"trigger": "lock
+ \t katy-icons", "contents": "lock
+" },{"trigger": "paper-clip
+ \t katy-icons", "contents": "paper-clip
+" },{"trigger": "notes
+ \t katy-icons", "contents": "notes
+" },{"trigger": "magview
+ \t katy-icons", "contents": "magview
+" },{"trigger": "list
+ \t katy-icons", "contents": "list
+" },{"trigger": "info-sign
+ \t katy-icons", "contents": "info-sign
+" },{"trigger": "share-android
+ \t katy-icons", "contents": "share-android
+" },{"trigger": "share
+ \t katy-icons", "contents": "share
+" },{"trigger": "pencil
+ \t katy-icons", "contents": "pencil
+" },{"trigger": "sort
+ \t katy-icons", "contents": "sort
+" },{"trigger": "resize-vertical
+ \t katy-icons", "contents": "resize-vertical
+" },{"trigger": "resize-horizontal
+ \t katy-icons", "contents": "resize-horizontal
+" },{"trigger": "bold
+ \t katy-icons", "contents": "bold
+" },{"trigger": "italic
+ \t katy-icons", "contents": "italic
+" },{"trigger": "underline
+ \t katy-icons", "contents": "underline
+" },{"trigger": "list-ol
+ \t katy-icons", "contents": "list-ol
+" },{"trigger": "list-ul
+ \t katy-icons", "contents": "list-ul
+" },{"trigger": "resize
+ \t katy-icons", "contents": "resize
+" },{"trigger": "refresh
+ \t katy-icons", "contents": "refresh
+" },{"trigger": "undo
+ \t katy-icons", "contents": "undo
+" },{"trigger": "repeat
+ \t katy-icons", "contents": "repeat
+" },{"trigger": "chevron-left
+ \t katy-icons", "contents": "chevron-left
+" },{"trigger": "chevron-right
+ \t katy-icons", "contents": "chevron-right
+" },{"trigger": "chevron-down
+ \t katy-icons", "contents": "chevron-down
+" },{"trigger": "chevron-up
+ \t katy-icons", "contents": "chevron-up
+" },{"trigger": "arrow-left
+ \t katy-icons", "contents": "arrow-left
+" },{"trigger": "arrow-right
+ \t katy-icons", "contents": "arrow-right
+" },{"trigger": "arrow-pipe-left
+ \t katy-icons", "contents": "arrow-pipe-left
+" },{"trigger": "arrow-pipe-right
+ \t katy-icons", "contents": "arrow-pipe-right
+" },{"trigger": "arrow-down
+ \t katy-icons", "contents": "arrow-down
+" },{"trigger": "arrow-up
+ \t katy-icons", "contents": "arrow-up
+" },{"trigger": "dot
+ \t katy-icons", "contents": "dot
+" },{"trigger": "globe-west
+ \t katy-icons", "contents": "globe-west
+" },{"trigger": "globe-emea
+ \t katy-icons", "contents": "globe-emea
+" },{"trigger": "globe-east
+ \t katy-icons", "contents": "globe-east
+" },{"trigger": "pencil-square
+ \t katy-icons", "contents": "pencil-square
+" },{"trigger": "share-ios
+ \t katy-icons", "contents": "share-ios
+" },{"trigger": "question-sign
+ \t katy-icons", "contents": "question-sign
+" },{"trigger": "shared
+ \t katy-icons", "contents": "shared
+" },{"trigger": "briefcase
+ \t katy-icons", "contents": "briefcase
+" },{"trigger": "bell
+ \t katy-icons", "contents": "bell
+" },{"trigger": "intro
+ \t katy-icons", "contents": "intro
+" },{"trigger": "link
+ \t katy-icons", "contents": "link
+" },{"trigger": "file
+ \t katy-icons", "contents": "file
+" },{"trigger": "image
+ \t katy-icons", "contents": "image
+" },{"trigger": "spreadsheet
+ \t katy-icons", "contents": "spreadsheet
+" },{"trigger": "summary
+ \t katy-icons", "contents": "summary
+" },{"trigger": "experience
+ \t katy-icons", "contents": "experience
+" },{"trigger": "education
+ \t katy-icons", "contents": "education
+" },{"trigger": "skills
+ \t katy-icons", "contents": "skills
+" },{"trigger": "addl-info
+ \t katy-icons", "contents": "addl-info
+" },{"trigger": "projects
+ \t katy-icons", "contents": "projects
+" },{"trigger": "test-scores
+ \t katy-icons", "contents": "test-scores
+" },{"trigger": "honors-awards
+ \t katy-icons", "contents": "honors-awards
+" },{"trigger": "volunteering
+ \t katy-icons", "contents": "volunteering
+" },{"trigger": "patents
+ \t katy-icons", "contents": "patents
+" },{"trigger": "organizations
+ \t katy-icons", "contents": "organizations
+" },{"trigger": "courses
+ \t katy-icons", "contents": "courses
+" },{"trigger": "publications
+ \t katy-icons", "contents": "publications
+" },{"trigger": "languages
+ \t katy-icons", "contents": "languages
+" },{"trigger": "certificate
+ \t katy-icons", "contents": "certificate
+" },{"trigger": "camera
+ \t katy-icons", "contents": "camera
+" },{"trigger": "companies
+ \t katy-icons", "contents": "companies
+" },{"trigger": "eye-open
+ \t katy-icons", "contents": "eye-open
+" },{"trigger": "todo-list
+ \t katy-icons", "contents": "todo-list
+" },{"trigger": "assoc-with
+ \t katy-icons", "contents": "assoc-with
+" },{"trigger": "blank
+ \t katy-icons", "contents": "blank
+" },{"trigger": "tag
+ \t katy-icons", "contents": "tag
+" },{"trigger": "facebook
+ \t katy-icons", "contents": "facebook
+" },{"trigger": "twitter
+ \t katy-icons", "contents": "twitter
+" },{"trigger": "globe
+ \t katy-icons", "contents": "globe
+" },{"trigger": "zoom-in
+ \t katy-icons", "contents": "zoom-in
+" },{"trigger": "contact-card
+ \t katy-icons", "contents": "contact-card
+" },{"trigger": "download
+ \t katy-icons", "contents": "download
+" },{"trigger": "retail
+ \t katy-icons", "contents": "retail
+" },{"trigger": "manufacturing
+ \t katy-icons", "contents": "manufacturing
+" },{"trigger": "architecture-eng
+ \t katy-icons", "contents": "architecture-eng
+" },{"trigger": "media-entertainment
+ \t katy-icons", "contents": "media-entertainment
+" },{"trigger": "tech-hardware
+ \t katy-icons", "contents": "tech-hardware
+" },{"trigger": "finance
+ \t katy-icons", "contents": "finance
+" },{"trigger": "nav-list-mobile
+ \t katy-icons", "contents": "nav-list-mobile
+" },{"trigger": "govt-edu-nonprofit
+ \t katy-icons", "contents": "govt-edu-nonprofit
+" },{"trigger": "tech-software
+ \t katy-icons", "contents": "tech-software
+" },{"trigger": "aero-auto-transport
+ \t katy-icons", "contents": "aero-auto-transport
+" },{"trigger": "staffing
+ \t katy-icons", "contents": "staffing
+" },{"trigger": "oil-energy
+ \t katy-icons", "contents": "oil-energy
+" },{"trigger": "health-care
+ \t katy-icons", "contents": "health-care
+" },{"trigger": "telecomm
+ \t katy-icons", "contents": "telecomm
+" },{"trigger": "star
+ \t katy-icons", "contents": "star
+" },{"trigger": "star-empty
+ \t katy-icons", "contents": "star-empty
+" },{"trigger": "block
+ \t katy-icons", "contents": "block
+" },{"trigger": "unblock
+ \t katy-icons", "contents": "unblock
+" },{"trigger": "info-collected
+ \t katy-icons", "contents": "info-collected
+" },{"trigger": "expand
+ \t katy-icons", "contents": "expand
+" },{"trigger": "contract
+ \t katy-icons", "contents": "contract
+" },{"trigger": "phone
+ \t katy-icons", "contents": "phone
+" },{"trigger": "targeted
+ \t katy-icons", "contents": "targeted
+" },{"trigger": "interested
+ \t katy-icons", "contents": "interested
+" },{"trigger": "play-circle
+ \t katy-icons", "contents": "play-circle
+" },{"trigger": "play-circle-o
+ \t katy-icons", "contents": "play-circle-o
+" },{"trigger": "archive
+ \t katy-icons", "contents": "archive
+" },{"trigger": "trash
+ \t katy-icons", "contents": "trash
+" },{"trigger": "reply
+ \t katy-icons", "contents": "reply
+" },{"trigger": "forward
+ \t katy-icons", "contents": "forward
+" },{"trigger": "read
+ \t katy-icons", "contents": "read
+" },{"trigger": "align-left
+ \t katy-icons", "contents": "align-left
+" },{"trigger": "align-center
+ \t katy-icons", "contents": "align-center
+" },{"trigger": "align-right
+ \t katy-icons", "contents": "align-right
+" },{"trigger": "quote-left
+ \t katy-icons", "contents": "quote-left
+" },{"trigger": "quote-right
+ \t katy-icons", "contents": "quote-right
+" },{"trigger": "markup
+ \t katy-icons", "contents": "markup
+" },{"trigger": "strikethrough
+ \t katy-icons", "contents": "strikethrough
+" },{"trigger": "clock
+ \t katy-icons", "contents": "clock
+" },{"trigger": "chevron-left-thin
+ \t katy-icons", "contents": "chevron-left-thin
+" },{"trigger": "chevron-right-thin
+ \t katy-icons", "contents": "chevron-right-thin
+" },{"trigger": "chevron-down-thin
+ \t katy-icons", "contents": "chevron-down-thin
+" },{"trigger": "chevron-up-thin
+ \t katy-icons", "contents": "chevron-up-thin
+" },{"trigger": "bar-chart
+ \t katy-icons", "contents": "bar-chart
+" },{"trigger": "shield
+ \t katy-icons", "contents": "shield
+" },{"trigger": "volume-off
+ \t katy-icons", "contents": "volume-off
+" },{"trigger": "volume-up
+ \t katy-icons", "contents": "volume-up
+" },{"trigger": "person
+ \t katy-icons", "contents": "person
+" },{"trigger": "award
+ \t katy-icons", "contents": "award
+" },{"trigger": "home
+ \t katy-icons", "contents": "home
+" },{"trigger": "map-marker
+ \t katy-icons", "contents": "map-marker
+" },{"trigger": "presentation
+ \t katy-icons", "contents": "presentation
+" },{"trigger": "rss-square
+ \t katy-icons", "contents": "rss-square
+" },{"trigger": "pie-chart
+ \t katy-icons", "contents": "pie-chart
+" },{"trigger": "project
+ \t katy-icons", "contents": "project
+" },{"trigger": "check-list
+ \t katy-icons", "contents": "check-list
+" },{"trigger": "connections
+ \t katy-icons", "contents": "connections
+" },{"trigger": "click-to-add
+ \t katy-icons", "contents": "click-to-add
+" },{"trigger": "following
+ \t katy-icons", "contents": "following
+" },{"trigger": "add-project
+ \t katy-icons", "contents": "add-project
+" },{"trigger": "remove-project
+ \t katy-icons", "contents": "remove-project
+" },{"trigger": "print
+ \t katy-icons", "contents": "print
+" },{"trigger": "calendar
+ \t katy-icons", "contents": "calendar
+" },{"trigger": "reader-mobile
+ \t katy-icons", "contents": "reader-mobile
+" },{"trigger": "long-arrow-left
+ \t katy-icons", "contents": "long-arrow-left
+" },{"trigger": "long-arrow-right
+ \t katy-icons", "contents": "long-arrow-right
+" },{"trigger": "recommendations
+ \t katy-icons", "contents": "recommendations
+" },{"trigger": "profile-update
+ \t katy-icons", "contents": "profile-update
+" },{"trigger": "news
+ \t katy-icons", "contents": "news
+" },{"trigger": "conversations
+ \t katy-icons", "contents": "conversations
+" },{"trigger": "upgrade
+ \t katy-icons", "contents": "upgrade
+" },{"trigger": "transparency-report
+ \t katy-icons", "contents": "transparency-report
+" },{"trigger": "back-to-top
+ \t katy-icons", "contents": "back-to-top
+" },{"trigger": "more
+ \t katy-icons", "contents": "more
+" },{"trigger": "more-mobile
+ \t katy-icons", "contents": "more-mobile
+" },{"trigger": "reply-all
+ \t katy-icons", "contents": "reply-all
+" },{"trigger": "logo-twitter
+ \t katy-icons", "contents": "logo-twitter
+" },{"trigger": "logo-facebook
+ \t katy-icons", "contents": "logo-facebook
+" },{"trigger": "logo-google
+ \t katy-icons", "contents": "logo-google
+" },{"trigger": "logo-yahoo
+ \t katy-icons", "contents": "logo-yahoo
+" },{"trigger": "logo-icq
+ \t katy-icons", "contents": "logo-icq
+" },{"trigger": "logo-skype
+ \t katy-icons", "contents": "logo-skype
+" },{"trigger": "logo-aim
+ \t katy-icons", "contents": "logo-aim
+" },{"trigger": "logo-tencent
+ \t katy-icons", "contents": "logo-tencent
+" },{"trigger": "logo-qq
+ \t katy-icons", "contents": "logo-qq
+" },{"trigger": "logo-wechat
+ \t katy-icons", "contents": "logo-wechat
+" },{"trigger": "logo-weibo
+ \t katy-icons", "contents": "logo-weibo
+" },{"trigger": "logo-inject
+ \t katy-icons", "contents": "logo-inject
+" },{"trigger": "logo-groups
+ \t katy-icons", "contents": "logo-groups
+" },{"trigger": "logo-pulse
+ \t katy-icons", "contents": "logo-pulse
+" },{"trigger": "logo-cardmunch
+ \t katy-icons", "contents": "logo-cardmunch
+" },{"trigger": "logo-linkedin
+ \t katy-icons", "contents": "logo-linkedin
+" },{"trigger": "logo-contacts
+ \t katy-icons", "contents": "logo-contacts
+" },{"trigger": "logo-slideshare
+ \t katy-icons", "contents": "logo-slideshare
+" }]}

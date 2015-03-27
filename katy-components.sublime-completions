@@ -1,0 +1,1089 @@
+{"source": "source.scss, meta.property-value.scss","completions":[{"trigger": "alert
+ \t katy-components", "contents": "alert
+" },{"trigger": "notice alert
+ \t katy-components", "contents": "notice alert
+" },{"trigger": "success alert
+ \t katy-components", "contents": "success alert
+" },{"trigger": "error alert
+ \t katy-components", "contents": "error alert
+" },{"trigger": "yield alert
+ \t katy-components", "contents": "yield alert
+" },{"trigger": "annotation
+ \t katy-components", "contents": "annotation
+" },{"trigger": "annotation in dark
+ \t katy-components", "contents": "annotation in dark
+" },{"trigger": "annotation in a tooltip
+ \t katy-components", "contents": "annotation in a tooltip
+" },{"trigger": "annotation in a punchcut
+ \t katy-components", "contents": "annotation in a punchcut
+" },{"trigger": "highlighted annotation in-entityblock
+ \t katy-components", "contents": "highlighted annotation in-entityblock
+" },{"trigger": "annotation in-entityblock in-standalone
+ \t katy-components", "contents": "annotation in-entityblock in-standalone
+" },{"trigger": "sibling annotation in-entityblock in-standalone
+ \t katy-components", "contents": "sibling annotation in-entityblock in-standalone
+" },{"trigger": "meta annotation in-summary in-module
+ \t katy-components", "contents": "meta annotation in-summary in-module
+" },{"trigger": "relationship annotation in-summary in-module
+ \t katy-components", "contents": "relationship annotation in-summary in-module
+" },{"trigger": "source annotation in-summary in-module
+ \t katy-components", "contents": "source annotation in-summary in-module
+" },{"trigger": "annotation in-entitycard
+ \t katy-components", "contents": "annotation in-entitycard
+" },{"trigger": "large annotation
+ \t katy-components", "contents": "large annotation
+" },{"trigger": "medium annotation
+ \t katy-components", "contents": "medium annotation
+" },{"trigger": "small annotation
+ \t katy-components", "contents": "small annotation
+" },{"trigger": "annotation in-dark
+ \t katy-components", "contents": "annotation in-dark
+" },{"trigger": "annotation in-bristol
+ \t katy-components", "contents": "annotation in-bristol
+" },{"trigger": "annotation in-punchcut
+ \t katy-components", "contents": "annotation in-punchcut
+" },{"trigger": "bristol
+ \t katy-components", "contents": "bristol
+" },{"trigger": "bordered bristol in-dropdown
+ \t katy-components", "contents": "bordered bristol in-dropdown
+" },{"trigger": "button-group
+ \t katy-components", "contents": "button-group
+" },{"trigger": "button-group in button-toolbar
+ \t katy-components", "contents": "button-group in button-toolbar
+" },{"trigger": "small button-group in button-toolbar
+ \t katy-components", "contents": "small button-group in button-toolbar
+" },{"trigger": "last button-group in button-toolbar
+ \t katy-components", "contents": "last button-group in button-toolbar
+" },{"trigger": "right aligned button-group in button-toolbar
+ \t katy-components", "contents": "right aligned button-group in button-toolbar
+" },{"trigger": "right aligned small button-group in button-toolbar
+ \t katy-components", "contents": "right aligned small button-group in button-toolbar
+" },{"trigger": "right aligned last button-group in button-toolbar
+ \t katy-components", "contents": "right aligned last button-group in button-toolbar
+" },{"trigger": "button-toolbar
+ \t katy-components", "contents": "button-toolbar
+" },{"trigger": "button
+ \t katy-components", "contents": "button
+" },{"trigger": "primary button
+ \t katy-components", "contents": "primary button
+" },{"trigger": "secondary button
+ \t katy-components", "contents": "secondary button
+" },{"trigger": "spotlight button
+ \t katy-components", "contents": "spotlight button
+" },{"trigger": "button in dark
+ \t katy-components", "contents": "button in dark
+" },{"trigger": "primary button in dark
+ \t katy-components", "contents": "primary button in dark
+" },{"trigger": "secondary button in dark
+ \t katy-components", "contents": "secondary button in dark
+" },{"trigger": "spotlight button in dark
+ \t katy-components", "contents": "spotlight button in dark
+" },{"trigger": "primary button in punchcut
+ \t katy-components", "contents": "primary button in punchcut
+" },{"trigger": "secondary button in punchcut
+ \t katy-components", "contents": "secondary button in punchcut
+" },{"trigger": "spotlight button in punchcut
+ \t katy-components", "contents": "spotlight button in punchcut
+" },{"trigger": "primary button in bristol
+ \t katy-components", "contents": "primary button in bristol
+" },{"trigger": "secondary button in bristol
+ \t katy-components", "contents": "secondary button in bristol
+" },{"trigger": "spotlight button in bristol
+ \t katy-components", "contents": "spotlight button in bristol
+" },{"trigger": "button in button-toolbar
+ \t katy-components", "contents": "button in button-toolbar
+" },{"trigger": "small button in button-toolbar
+ \t katy-components", "contents": "small button in button-toolbar
+" },{"trigger": "last button in button-toolbar
+ \t katy-components", "contents": "last button in button-toolbar
+" },{"trigger": "right aligned button in button-toolbar
+ \t katy-components", "contents": "right aligned button in button-toolbar
+" },{"trigger": "right aligned small button in button-toolbar
+ \t katy-components", "contents": "right aligned small button in button-toolbar
+" },{"trigger": "right aligned last button in button-toolbar
+ \t katy-components", "contents": "right aligned last button in button-toolbar
+" },{"trigger": "button in button-group
+ \t katy-components", "contents": "button in button-group
+" },{"trigger": "last button in button-group
+ \t katy-components", "contents": "last button in button-group
+" },{"trigger": "button in button-group in dark
+ \t katy-components", "contents": "button in button-group in dark
+" },{"trigger": "secondary button in button-group in dark
+ \t katy-components", "contents": "secondary button in button-group in dark
+" },{"trigger": "spotlight button in button-group in dark
+ \t katy-components", "contents": "spotlight button in button-group in dark
+" },{"trigger": "last button in button-group in dark
+ \t katy-components", "contents": "last button in button-group in dark
+" },{"trigger": "button in button-group in punchcut
+ \t katy-components", "contents": "button in button-group in punchcut
+" },{"trigger": "secondary button in button-group in punchcut
+ \t katy-components", "contents": "secondary button in button-group in punchcut
+" },{"trigger": "spotlight button in button-group in punchcut
+ \t katy-components", "contents": "spotlight button in button-group in punchcut
+" },{"trigger": "last button in button-group in punchcut
+ \t katy-components", "contents": "last button in button-group in punchcut
+" },{"trigger": "button in button-group in bristol
+ \t katy-components", "contents": "button in button-group in bristol
+" },{"trigger": "secondary button in button-group in bristol
+ \t katy-components", "contents": "secondary button in button-group in bristol
+" },{"trigger": "spotlight button in button-group in bristol
+ \t katy-components", "contents": "spotlight button in button-group in bristol
+" },{"trigger": "last button in button-group in bristol
+ \t katy-components", "contents": "last button in button-group in bristol
+" },{"trigger": "first button in button-group
+ \t katy-components", "contents": "first button in button-group
+" },{"trigger": "large button
+ \t katy-components", "contents": "large button
+" },{"trigger": "medium button
+ \t katy-components", "contents": "medium button
+" },{"trigger": "small button
+ \t katy-components", "contents": "small button
+" },{"trigger": "narrow button
+ \t katy-components", "contents": "narrow button
+" },{"trigger": "narrow large button
+ \t katy-components", "contents": "narrow large button
+" },{"trigger": "narrow small button
+ \t katy-components", "contents": "narrow small button
+" },{"trigger": "indicator button
+ \t katy-components", "contents": "indicator button
+" },{"trigger": "button in-promo
+ \t katy-components", "contents": "button in-promo
+" },{"trigger": "button in-carousel
+ \t katy-components", "contents": "button in-carousel
+" },{"trigger": "next button in-carousel
+ \t katy-components", "contents": "next button in-carousel
+" },{"trigger": "previous button in-carousel
+ \t katy-components", "contents": "previous button in-carousel
+" },{"trigger": "large round button
+ \t katy-components", "contents": "large round button
+" },{"trigger": "small round button
+ \t katy-components", "contents": "small round button
+" },{"trigger": "canvas
+ \t katy-components", "contents": "canvas
+" },{"trigger": "caret
+ \t katy-components", "contents": "caret
+" },{"trigger": "caret in dark
+ \t katy-components", "contents": "caret in dark
+" },{"trigger": "caret in a punchcut
+ \t katy-components", "contents": "caret in a punchcut
+" },{"trigger": "caret in a bristol
+ \t katy-components", "contents": "caret in a bristol
+" },{"trigger": "caret in a tooltip
+ \t katy-components", "contents": "caret in a tooltip
+" },{"trigger": "caret in a button
+ \t katy-components", "contents": "caret in a button
+" },{"trigger": "caret in a secondary button
+ \t katy-components", "contents": "caret in a secondary button
+" },{"trigger": "caret in a spotlight button
+ \t katy-components", "contents": "caret in a spotlight button
+" },{"trigger": "large caret
+ \t katy-components", "contents": "large caret
+" },{"trigger": "small caret
+ \t katy-components", "contents": "small caret
+" },{"trigger": "caret in a large button
+ \t katy-components", "contents": "caret in a large button
+" },{"trigger": "caret in a small button
+ \t katy-components", "contents": "caret in a small button
+" },{"trigger": "north caret
+ \t katy-components", "contents": "north caret
+" },{"trigger": "north caret in a button
+ \t katy-components", "contents": "north caret in a button
+" },{"trigger": "north caret in a secondary button
+ \t katy-components", "contents": "north caret in a secondary button
+" },{"trigger": "north caret in a spotlight button
+ \t katy-components", "contents": "north caret in a spotlight button
+" },{"trigger": "east caret
+ \t katy-components", "contents": "east caret
+" },{"trigger": "east caret in a button
+ \t katy-components", "contents": "east caret in a button
+" },{"trigger": "east caret in a secondary button
+ \t katy-components", "contents": "east caret in a secondary button
+" },{"trigger": "east caret in a spotlight button
+ \t katy-components", "contents": "east caret in a spotlight button
+" },{"trigger": "west caret
+ \t katy-components", "contents": "west caret
+" },{"trigger": "west caret in a button
+ \t katy-components", "contents": "west caret in a button
+" },{"trigger": "west caret in a secondary button
+ \t katy-components", "contents": "west caret in a secondary button
+" },{"trigger": "west caret in a spotlight button
+ \t katy-components", "contents": "west caret in a spotlight button
+" },{"trigger": "north caret in a large button
+ \t katy-components", "contents": "north caret in a large button
+" },{"trigger": "north caret in a small button
+ \t katy-components", "contents": "north caret in a small button
+" },{"trigger": "west caret in a large button
+ \t katy-components", "contents": "west caret in a large button
+" },{"trigger": "west caret in a small button
+ \t katy-components", "contents": "west caret in a small button
+" },{"trigger": "east caret in a large button
+ \t katy-components", "contents": "east caret in a large button
+" },{"trigger": "east caret in a small button
+ \t katy-components", "contents": "east caret in a small button
+" },{"trigger": "caret on a hovercard
+ \t katy-components", "contents": "caret on a hovercard
+" },{"trigger": "south-west caret on a hovercard
+ \t katy-components", "contents": "south-west caret on a hovercard
+" },{"trigger": "south-east caret on a hovercard
+ \t katy-components", "contents": "south-east caret on a hovercard
+" },{"trigger": "north caret on a hovercard
+ \t katy-components", "contents": "north caret on a hovercard
+" },{"trigger": "north-west caret on a hovercard
+ \t katy-components", "contents": "north-west caret on a hovercard
+" },{"trigger": "north-east caret on a hovercard
+ \t katy-components", "contents": "north-east caret on a hovercard
+" },{"trigger": "east caret on a hovercard
+ \t katy-components", "contents": "east caret on a hovercard
+" },{"trigger": "east-north caret on a hovercard
+ \t katy-components", "contents": "east-north caret on a hovercard
+" },{"trigger": "east-south caret on a hovercard
+ \t katy-components", "contents": "east-south caret on a hovercard
+" },{"trigger": "west caret on a hovercard
+ \t katy-components", "contents": "west caret on a hovercard
+" },{"trigger": "west-north caret on a hovercard
+ \t katy-components", "contents": "west-north caret on a hovercard
+" },{"trigger": "west-south on hovercard caret
+ \t katy-components", "contents": "west-south on hovercard caret
+" },{"trigger": "caret on a tooltip
+ \t katy-components", "contents": "caret on a tooltip
+" },{"trigger": "south-west caret on a tooltip
+ \t katy-components", "contents": "south-west caret on a tooltip
+" },{"trigger": "south-east caret on a tooltip
+ \t katy-components", "contents": "south-east caret on a tooltip
+" },{"trigger": "north caret on a tooltip
+ \t katy-components", "contents": "north caret on a tooltip
+" },{"trigger": "north-west caret on a tooltip
+ \t katy-components", "contents": "north-west caret on a tooltip
+" },{"trigger": "north-east caret on a tooltip
+ \t katy-components", "contents": "north-east caret on a tooltip
+" },{"trigger": "east caret on a tooltip
+ \t katy-components", "contents": "east caret on a tooltip
+" },{"trigger": "east-north caret on a tooltip
+ \t katy-components", "contents": "east-north caret on a tooltip
+" },{"trigger": "east-south caret on a tooltip
+ \t katy-components", "contents": "east-south caret on a tooltip
+" },{"trigger": "west caret on a tooltip
+ \t katy-components", "contents": "west caret on a tooltip
+" },{"trigger": "west-north caret on a tooltip
+ \t katy-components", "contents": "west-north caret on a tooltip
+" },{"trigger": "west-south caret on a tooltip
+ \t katy-components", "contents": "west-south caret on a tooltip
+" },{"trigger": "xlarge caret
+ \t katy-components", "contents": "xlarge caret
+" },{"trigger": "xlarge north caret
+ \t katy-components", "contents": "xlarge north caret
+" },{"trigger": "caret on-promo
+ \t katy-components", "contents": "caret on-promo
+" },{"trigger": "caret on-premium on-promo
+ \t katy-components", "contents": "caret on-premium on-promo
+" },{"trigger": "caret on-hovercard
+ \t katy-components", "contents": "caret on-hovercard
+" },{"trigger": "north caret on-hovercard
+ \t katy-components", "contents": "north caret on-hovercard
+" },{"trigger": "east caret on-hovercard
+ \t katy-components", "contents": "east caret on-hovercard
+" },{"trigger": "west caret on-hovercard
+ \t katy-components", "contents": "west caret on-hovercard
+" },{"trigger": "caret on-persistent on-hovercard
+ \t katy-components", "contents": "caret on-persistent on-hovercard
+" },{"trigger": "north caret on-persistent on-hovercard
+ \t katy-components", "contents": "north caret on-persistent on-hovercard
+" },{"trigger": "north-west caret on-persistent on-hovercard
+ \t katy-components", "contents": "north-west caret on-persistent on-hovercard
+" },{"trigger": "north-east caret on-persistent on-hovercard
+ \t katy-components", "contents": "north-east caret on-persistent on-hovercard
+" },{"trigger": "east caret on-persistent on-hovercard
+ \t katy-components", "contents": "east caret on-persistent on-hovercard
+" },{"trigger": "east-north caret on-persistent on-hovercard
+ \t katy-components", "contents": "east-north caret on-persistent on-hovercard
+" },{"trigger": "east-south caret on-persistent on-hovercard
+ \t katy-components", "contents": "east-south caret on-persistent on-hovercard
+" },{"trigger": "south caret on-persistent on-hovercard
+ \t katy-components", "contents": "south caret on-persistent on-hovercard
+" },{"trigger": "south-west caret on-persistent on-hovercard
+ \t katy-components", "contents": "south-west caret on-persistent on-hovercard
+" },{"trigger": "south-east caret on-persistent on-hovercard
+ \t katy-components", "contents": "south-east caret on-persistent on-hovercard
+" },{"trigger": "west caret on-persistent on-hovercard
+ \t katy-components", "contents": "west caret on-persistent on-hovercard
+" },{"trigger": "west-north caret on-persistent on-hovercard
+ \t katy-components", "contents": "west-north caret on-persistent on-hovercard
+" },{"trigger": "west-south caret on-persistent on-hovercard
+ \t katy-components", "contents": "west-south caret on-persistent on-hovercard
+" },{"trigger": "caret on-dropdown
+ \t katy-components", "contents": "caret on-dropdown
+" },{"trigger": "north caret on-dropdown
+ \t katy-components", "contents": "north caret on-dropdown
+" },{"trigger": "close
+ \t katy-components", "contents": "close
+" },{"trigger": "close in a alert
+ \t katy-components", "contents": "close in a alert
+" },{"trigger": "close in dialog
+ \t katy-components", "contents": "close in dialog
+" },{"trigger": "close in-reveal in-promo
+ \t katy-components", "contents": "close in-reveal in-promo
+" },{"trigger": "close in-standard in-promo
+ \t katy-components", "contents": "close in-standard in-promo
+" },{"trigger": "close in-hovercard
+ \t katy-components", "contents": "close in-hovercard
+" },{"trigger": "close in-persistent in-hovercard
+ \t katy-components", "contents": "close in-persistent in-hovercard
+" },{"trigger": "close in-entitycard
+ \t katy-components", "contents": "close in-entitycard
+" },{"trigger": "close in-identitycard
+ \t katy-components", "contents": "close in-identitycard
+" },{"trigger": "container
+ \t katy-components", "contents": "container
+" },{"trigger": "light container
+ \t katy-components", "contents": "light container
+" },{"trigger": "dark container
+ \t katy-components", "contents": "dark container
+" },{"trigger": "container without shadow
+ \t katy-components", "contents": "container without shadow
+" },{"trigger": "container in-reveal in-promo
+ \t katy-components", "contents": "container in-reveal in-promo
+" },{"trigger": "premium container
+ \t katy-components", "contents": "premium container
+" },{"trigger": "container with-identitycard
+ \t katy-components", "contents": "container with-identitycard
+" },{"trigger": "container with-identitycard in-list
+ \t katy-components", "contents": "container with-identitycard in-list
+" },{"trigger": "hidden container with-identitycard
+ \t katy-components", "contents": "hidden container with-identitycard
+" },{"trigger": "half container with-identitycard
+ \t katy-components", "contents": "half container with-identitycard
+" },{"trigger": "three-quarter container with-identitycard
+ \t katy-components", "contents": "three-quarter container with-identitycard
+" },{"trigger": "one-third container with-identitycard
+ \t katy-components", "contents": "one-third container with-identitycard
+" },{"trigger": "two-third container with-identitycard
+ \t katy-components", "contents": "two-third container with-identitycard
+" },{"trigger": "full-width container with-identitycard
+ \t katy-components", "contents": "full-width container with-identitycard
+" },{"trigger": "copy
+ \t katy-components", "contents": "copy
+" },{"trigger": "medium copy
+ \t katy-components", "contents": "medium copy
+" },{"trigger": "large copy
+ \t katy-components", "contents": "large copy
+" },{"trigger": "small copy
+ \t katy-components", "contents": "small copy
+" },{"trigger": "copy in dark
+ \t katy-components", "contents": "copy in dark
+" },{"trigger": "copy in module
+ \t katy-components", "contents": "copy in module
+" },{"trigger": "copy in bristol
+ \t katy-components", "contents": "copy in bristol
+" },{"trigger": "copy in a tooltip
+ \t katy-components", "contents": "copy in a tooltip
+" },{"trigger": "copy in a alert
+ \t katy-components", "contents": "copy in a alert
+" },{"trigger": "copy in punchcut
+ \t katy-components", "contents": "copy in punchcut
+" },{"trigger": "breadcrumb copy
+ \t katy-components", "contents": "breadcrumb copy
+" },{"trigger": "active breadcrumb copy
+ \t katy-components", "contents": "active breadcrumb copy
+" },{"trigger": "emphasized copy
+ \t katy-components", "contents": "emphasized copy
+" },{"trigger": "strong copy
+ \t katy-components", "contents": "strong copy
+" },{"trigger": "muted copy
+ \t katy-components", "contents": "muted copy
+" },{"trigger": "copy in-promo
+ \t katy-components", "contents": "copy in-promo
+" },{"trigger": "copy in-standard in-promo
+ \t katy-components", "contents": "copy in-standard in-promo
+" },{"trigger": "dataviz copy
+ \t katy-components", "contents": "dataviz copy
+" },{"trigger": "small dataviz copy
+ \t katy-components", "contents": "small dataviz copy
+" },{"trigger": "medium dataviz copy
+ \t katy-components", "contents": "medium dataviz copy
+" },{"trigger": "marketing copy
+ \t katy-components", "contents": "marketing copy
+" },{"trigger": "small marketing copy
+ \t katy-components", "contents": "small marketing copy
+" },{"trigger": "medium marketing copy
+ \t katy-components", "contents": "medium marketing copy
+" },{"trigger": "xlarge marketing copy
+ \t katy-components", "contents": "xlarge marketing copy
+" },{"trigger": "xlarge copy
+ \t katy-components", "contents": "xlarge copy
+" },{"trigger": "muted copy in-dark
+ \t katy-components", "contents": "muted copy in-dark
+" },{"trigger": "muted copy in-bristol
+ \t katy-components", "contents": "muted copy in-bristol
+" },{"trigger": "muted copy in-tooltip
+ \t katy-components", "contents": "muted copy in-tooltip
+" },{"trigger": "muted copy in-alert
+ \t katy-components", "contents": "muted copy in-alert
+" },{"trigger": "muted copy in-punchcut
+ \t katy-components", "contents": "muted copy in-punchcut
+" },{"trigger": "error copy
+ \t katy-components", "contents": "error copy
+" },{"trigger": "required copy
+ \t katy-components", "contents": "required copy
+" },{"trigger": "copy in-form error
+ \t katy-components", "contents": "copy in-form error
+" },{"trigger": "copy in-form required
+ \t katy-components", "contents": "copy in-form required
+" },{"trigger": "copy in-label in-form required
+ \t katy-components", "contents": "copy in-label in-form required
+" },{"trigger": "description copy in-summary in-module
+ \t katy-components", "contents": "description copy in-summary in-module
+" },{"trigger": "snippet copy in-summary in-module
+ \t katy-components", "contents": "snippet copy in-summary in-module
+" },{"trigger": "copy in-entitycard
+ \t katy-components", "contents": "copy in-entitycard
+" },{"trigger": "flyout
+ \t katy-components", "contents": "flyout
+" },{"trigger": "visible flyout
+ \t katy-components", "contents": "visible flyout
+" },{"trigger": "flyout in button
+ \t katy-components", "contents": "flyout in button
+" },{"trigger": "flyout in button-group
+ \t katy-components", "contents": "flyout in button-group
+" },{"trigger": "upward flyout
+ \t katy-components", "contents": "upward flyout
+" },{"trigger": "right aligned flyout
+ \t katy-components", "contents": "right aligned flyout
+" },{"trigger": "flyout in-dropdown
+ \t katy-components", "contents": "flyout in-dropdown
+" },{"trigger": "bordered flyout
+ \t katy-components", "contents": "bordered flyout
+" },{"trigger": "north bordered flyout in-dropdown
+ \t katy-components", "contents": "north bordered flyout in-dropdown
+" },{"trigger": "south bordered flyout in-dropdown
+ \t katy-components", "contents": "south bordered flyout in-dropdown
+" },{"trigger": "east bordered flyout in-dropdown
+ \t katy-components", "contents": "east bordered flyout in-dropdown
+" },{"trigger": "west bordered flyout in-dropdown
+ \t katy-components", "contents": "west bordered flyout in-dropdown
+" },{"trigger": "flush-left flyout
+ \t katy-components", "contents": "flush-left flyout
+" },{"trigger": "flush-right flyout
+ \t katy-components", "contents": "flush-right flyout
+" },{"trigger": "flyout in-select
+ \t katy-components", "contents": "flyout in-select
+" },{"trigger": "flyout in-identitycard
+ \t katy-components", "contents": "flyout in-identitycard
+" },{"trigger": "heading
+ \t katy-components", "contents": "heading
+" },{"trigger": "heading in flyout in button-group
+ \t katy-components", "contents": "heading in flyout in button-group
+" },{"trigger": "first heading in flyout in button-group
+ \t katy-components", "contents": "first heading in flyout in button-group
+" },{"trigger": "heading in flyout in button
+ \t katy-components", "contents": "heading in flyout in button
+" },{"trigger": "first heading in flyout in button
+ \t katy-components", "contents": "first heading in flyout in button
+" },{"trigger": "section heading
+ \t katy-components", "contents": "section heading
+" },{"trigger": "headline
+ \t katy-components", "contents": "headline
+" },{"trigger": "muted headline
+ \t katy-components", "contents": "muted headline
+" },{"trigger": "xlarge headline
+ \t katy-components", "contents": "xlarge headline
+" },{"trigger": "xxlarge headline
+ \t katy-components", "contents": "xxlarge headline
+" },{"trigger": "large headline
+ \t katy-components", "contents": "large headline
+" },{"trigger": "medium headline
+ \t katy-components", "contents": "medium headline
+" },{"trigger": "small headline
+ \t katy-components", "contents": "small headline
+" },{"trigger": "xsmall headline
+ \t katy-components", "contents": "xsmall headline
+" },{"trigger": "headline in dark
+ \t katy-components", "contents": "headline in dark
+" },{"trigger": "headline in bristol
+ \t katy-components", "contents": "headline in bristol
+" },{"trigger": "headline in a tooltip
+ \t katy-components", "contents": "headline in a tooltip
+" },{"trigger": "headline in a alert
+ \t katy-components", "contents": "headline in a alert
+" },{"trigger": "headline in punchcut
+ \t katy-components", "contents": "headline in punchcut
+" },{"trigger": "headline in-promo
+ \t katy-components", "contents": "headline in-promo
+" },{"trigger": "headline in-reveal in-promo
+ \t katy-components", "contents": "headline in-reveal in-promo
+" },{"trigger": "headline in-standard in-promo
+ \t katy-components", "contents": "headline in-standard in-promo
+" },{"trigger": "dataviz headline
+ \t katy-components", "contents": "dataviz headline
+" },{"trigger": "small dataviz headline
+ \t katy-components", "contents": "small dataviz headline
+" },{"trigger": "medium dataviz headline
+ \t katy-components", "contents": "medium dataviz headline
+" },{"trigger": "xlarge dataviz headline
+ \t katy-components", "contents": "xlarge dataviz headline
+" },{"trigger": "muted dataviz headline
+ \t katy-components", "contents": "muted dataviz headline
+" },{"trigger": "marketing headline
+ \t katy-components", "contents": "marketing headline
+" },{"trigger": "medium marketing headline
+ \t katy-components", "contents": "medium marketing headline
+" },{"trigger": "xxxlarge headline
+ \t katy-components", "contents": "xxxlarge headline
+" },{"trigger": "headline in-premium in-container
+ \t katy-components", "contents": "headline in-premium in-container
+" },{"trigger": "muted headline in-dark
+ \t katy-components", "contents": "muted headline in-dark
+" },{"trigger": "muted headline in-bristol
+ \t katy-components", "contents": "muted headline in-bristol
+" },{"trigger": "muted headline in-tooltip
+ \t katy-components", "contents": "muted headline in-tooltip
+" },{"trigger": "muted headline in-alert
+ \t katy-components", "contents": "muted headline in-alert
+" },{"trigger": "muted headline in-punchcut
+ \t katy-components", "contents": "muted headline in-punchcut
+" },{"trigger": "name headline in-summary in-module
+ \t katy-components", "contents": "name headline in-summary in-module
+" },{"trigger": "bordered headline in-dropdown
+ \t katy-components", "contents": "bordered headline in-dropdown
+" },{"trigger": "hovercard
+ \t katy-components", "contents": "hovercard
+" },{"trigger": "persistent hovercard
+ \t katy-components", "contents": "persistent hovercard
+" },{"trigger": "icon
+ \t katy-components", "contents": "icon
+" },{"trigger": "identity
+ \t katy-components", "contents": "identity
+" },{"trigger": "identity in dark
+ \t katy-components", "contents": "identity in dark
+" },{"trigger": "identity in punchcut
+ \t katy-components", "contents": "identity in punchcut
+" },{"trigger": "identity in bristol
+ \t katy-components", "contents": "identity in bristol
+" },{"trigger": "identity in-entityblock
+ \t katy-components", "contents": "identity in-entityblock
+" },{"trigger": "identity in-entitycard
+ \t katy-components", "contents": "identity in-entitycard
+" },{"trigger": "link
+ \t katy-components", "contents": "link
+" },{"trigger": "link without underline
+ \t katy-components", "contents": "link without underline
+" },{"trigger": "link in dark
+ \t katy-components", "contents": "link in dark
+" },{"trigger": "link in punchcut
+ \t katy-components", "contents": "link in punchcut
+" },{"trigger": "link in bristol
+ \t katy-components", "contents": "link in bristol
+" },{"trigger": "link in a alert
+ \t katy-components", "contents": "link in a alert
+" },{"trigger": "muted link
+ \t katy-components", "contents": "muted link
+" },{"trigger": "link in-dark
+ \t katy-components", "contents": "link in-dark
+" },{"trigger": "link without-visited-state
+ \t katy-components", "contents": "link without-visited-state
+" },{"trigger": "link in-alert
+ \t katy-components", "contents": "link in-alert
+" },{"trigger": "muted link with-underline
+ \t katy-components", "contents": "muted link with-underline
+" },{"trigger": "loader
+ \t katy-components", "contents": "loader
+" },{"trigger": "large loader
+ \t katy-components", "contents": "large loader
+" },{"trigger": "small loader
+ \t katy-components", "contents": "small loader
+" },{"trigger": "loader in dark
+ \t katy-components", "contents": "loader in dark
+" },{"trigger": "large loader in dark
+ \t katy-components", "contents": "large loader in dark
+" },{"trigger": "small loader in dark
+ \t katy-components", "contents": "small loader in dark
+" },{"trigger": "loader in canvas
+ \t katy-components", "contents": "loader in canvas
+" },{"trigger": "loader in module
+ \t katy-components", "contents": "loader in module
+" },{"trigger": "loader in heading
+ \t katy-components", "contents": "loader in heading
+" },{"trigger": "loader in bristol
+ \t katy-components", "contents": "loader in bristol
+" },{"trigger": "loader in punchcut
+ \t katy-components", "contents": "loader in punchcut
+" },{"trigger": "small loader in bristol
+ \t katy-components", "contents": "small loader in bristol
+" },{"trigger": "large loader in bristol
+ \t katy-components", "contents": "large loader in bristol
+" },{"trigger": "small loader in punchcut
+ \t katy-components", "contents": "small loader in punchcut
+" },{"trigger": "large loader in punchcut
+ \t katy-components", "contents": "large loader in punchcut
+" },{"trigger": "loader without mask
+ \t katy-components", "contents": "loader without mask
+" },{"trigger": "original loader
+ \t katy-components", "contents": "original loader
+" },{"trigger": "inline loader
+ \t katy-components", "contents": "inline loader
+" },{"trigger": "original small loader
+ \t katy-components", "contents": "original small loader
+" },{"trigger": "original large loader
+ \t katy-components", "contents": "original large loader
+" },{"trigger": "small inline loader
+ \t katy-components", "contents": "small inline loader
+" },{"trigger": "medium inline loader
+ \t katy-components", "contents": "medium inline loader
+" },{"trigger": "large inline loader
+ \t katy-components", "contents": "large inline loader
+" },{"trigger": "original loader in-bristol
+ \t katy-components", "contents": "original loader in-bristol
+" },{"trigger": "original loader in-canvas
+ \t katy-components", "contents": "original loader in-canvas
+" },{"trigger": "original loader in-punchcut
+ \t katy-components", "contents": "original loader in-punchcut
+" },{"trigger": "original loader in-module
+ \t katy-components", "contents": "original loader in-module
+" },{"trigger": "original loader in-heading
+ \t katy-components", "contents": "original loader in-heading
+" },{"trigger": "original small loader in-bristol
+ \t katy-components", "contents": "original small loader in-bristol
+" },{"trigger": "original large loader in-bristol
+ \t katy-components", "contents": "original large loader in-bristol
+" },{"trigger": "original small loader in-punchcut
+ \t katy-components", "contents": "original small loader in-punchcut
+" },{"trigger": "original large loader in-punchcut
+ \t katy-components", "contents": "original large loader in-punchcut
+" },{"trigger": "menu-item
+ \t katy-components", "contents": "menu-item
+" },{"trigger": "menu-item in flyout
+ \t katy-components", "contents": "menu-item in flyout
+" },{"trigger": "menu-item in-select
+ \t katy-components", "contents": "menu-item in-select
+" },{"trigger": "small menu-item
+ \t katy-components", "contents": "small menu-item
+" },{"trigger": "module
+ \t katy-components", "contents": "module
+" },{"trigger": "module in-top-bar
+ \t katy-components", "contents": "module in-top-bar
+" },{"trigger": "left module in-top-bar
+ \t katy-components", "contents": "left module in-top-bar
+" },{"trigger": "right module in-top-bar
+ \t katy-components", "contents": "right module in-top-bar
+" },{"trigger": "module in-entityblock
+ \t katy-components", "contents": "module in-entityblock
+" },{"trigger": "module in-entityblock in-standalone
+ \t katy-components", "contents": "module in-entityblock in-standalone
+" },{"trigger": "media module in-entityblock in-standalone
+ \t katy-components", "contents": "media module in-entityblock in-standalone
+" },{"trigger": "module in-search-entityblock
+ \t katy-components", "contents": "module in-search-entityblock
+" },{"trigger": "summary module in-search-entityblock
+ \t katy-components", "contents": "summary module in-search-entityblock
+" },{"trigger": "summary module in-search-entityblock in-content
+ \t katy-components", "contents": "summary module in-search-entityblock in-content
+" },{"trigger": "summary module in-search-entityblock in-small
+ \t katy-components", "contents": "summary module in-search-entityblock in-small
+" },{"trigger": "module in-entitycard
+ \t katy-components", "contents": "module in-entitycard
+" },{"trigger": "light module
+ \t katy-components", "contents": "light module
+" },{"trigger": "module with-shadow
+ \t katy-components", "contents": "module with-shadow
+" },{"trigger": "pullquote
+ \t katy-components", "contents": "pullquote
+" },{"trigger": "pullquote in dark
+ \t katy-components", "contents": "pullquote in dark
+" },{"trigger": "pullquote in bristol
+ \t katy-components", "contents": "pullquote in bristol
+" },{"trigger": "pullquote in punchcut
+ \t katy-components", "contents": "pullquote in punchcut
+" },{"trigger": "punchcut
+ \t katy-components", "contents": "punchcut
+" },{"trigger": "punchcut without inner-shadow
+ \t katy-components", "contents": "punchcut without inner-shadow
+" },{"trigger": "tooltip
+ \t katy-components", "contents": "tooltip
+" },{"trigger": "badge
+ \t katy-components", "contents": "badge
+" },{"trigger": "badge on-photo
+ \t katy-components", "contents": "badge on-photo
+" },{"trigger": "large badge
+ \t katy-components", "contents": "large badge
+" },{"trigger": "small badge
+ \t katy-components", "contents": "small badge
+" },{"trigger": "premium badge
+ \t katy-components", "contents": "premium badge
+" },{"trigger": "alternate badge
+ \t katy-components", "contents": "alternate badge
+" },{"trigger": "text badge
+ \t katy-components", "contents": "text badge
+" },{"trigger": "influencer badge
+ \t katy-components", "contents": "influencer badge
+" },{"trigger": "job seeker badge
+ \t katy-components", "contents": "job seeker badge
+" },{"trigger": "openlink badge
+ \t katy-components", "contents": "openlink badge
+" },{"trigger": "premium subscriber badge
+ \t katy-components", "contents": "premium subscriber badge
+" },{"trigger": "small influencer badge
+ \t katy-components", "contents": "small influencer badge
+" },{"trigger": "small job seeker badge
+ \t katy-components", "contents": "small job seeker badge
+" },{"trigger": "small openlink badge
+ \t katy-components", "contents": "small openlink badge
+" },{"trigger": "small premium subscriber badge
+ \t katy-components", "contents": "small premium subscriber badge
+" },{"trigger": "influencer text badge
+ \t katy-components", "contents": "influencer text badge
+" },{"trigger": "small influencer text badge
+ \t katy-components", "contents": "small influencer text badge
+" },{"trigger": "large influencer text badge
+ \t katy-components", "contents": "large influencer text badge
+" },{"trigger": "promo
+ \t katy-components", "contents": "promo
+" },{"trigger": "premium promo
+ \t katy-components", "contents": "premium promo
+" },{"trigger": "reveal promo
+ \t katy-components", "contents": "reveal promo
+" },{"trigger": "standard promo
+ \t katy-components", "contents": "standard promo
+" },{"trigger": "peel
+ \t katy-components", "contents": "peel
+" },{"trigger": "peel in-reveal in-promo
+ \t katy-components", "contents": "peel in-reveal in-promo
+" },{"trigger": "table
+ \t katy-components", "contents": "table
+" },{"trigger": "table-cell
+ \t katy-components", "contents": "table-cell
+" },{"trigger": "secondary table-cell
+ \t katy-components", "contents": "secondary table-cell
+" },{"trigger": "last table-cell
+ \t katy-components", "contents": "last table-cell
+" },{"trigger": "data-label
+ \t katy-components", "contents": "data-label
+" },{"trigger": "secondary data-label
+ \t katy-components", "contents": "secondary data-label
+" },{"trigger": "medium data-label
+ \t katy-components", "contents": "medium data-label
+" },{"trigger": "left data-label
+ \t katy-components", "contents": "left data-label
+" },{"trigger": "last data-label
+ \t katy-components", "contents": "last data-label
+" },{"trigger": "muted data-label
+ \t katy-components", "contents": "muted data-label
+" },{"trigger": "data-point
+ \t katy-components", "contents": "data-point
+" },{"trigger": "medium data-point
+ \t katy-components", "contents": "medium data-point
+" },{"trigger": "left data-point
+ \t katy-components", "contents": "left data-point
+" },{"trigger": "last data-point
+ \t katy-components", "contents": "last data-point
+" },{"trigger": "muted data-point
+ \t katy-components", "contents": "muted data-point
+" },{"trigger": "highlighted data-point
+ \t katy-components", "contents": "highlighted data-point
+" },{"trigger": "bold data-point
+ \t katy-components", "contents": "bold data-point
+" },{"trigger": "image
+ \t katy-components", "contents": "image
+" },{"trigger": "wrapper image in-top-bar
+ \t katy-components", "contents": "wrapper image in-top-bar
+" },{"trigger": "wide wrapper image in-top-bar
+ \t katy-components", "contents": "wide wrapper image in-top-bar
+" },{"trigger": "image in-entityblock
+ \t katy-components", "contents": "image in-entityblock
+" },{"trigger": "image in-entityblock in-standalone
+ \t katy-components", "contents": "image in-entityblock in-standalone
+" },{"trigger": "image in-entitycard
+ \t katy-components", "contents": "image in-entitycard
+" },{"trigger": "global-nav
+ \t katy-components", "contents": "global-nav
+" },{"trigger": "global-nav-item
+ \t katy-components", "contents": "global-nav-item
+" },{"trigger": "global-nav-item in-sub-menu
+ \t katy-components", "contents": "global-nav-item in-sub-menu
+" },{"trigger": "global-nav-logo
+ \t katy-components", "contents": "global-nav-logo
+" },{"trigger": "navigation-facet
+ \t katy-components", "contents": "navigation-facet
+" },{"trigger": "selected navigation-facet
+ \t katy-components", "contents": "selected navigation-facet
+" },{"trigger": "horizontal navigation-facet
+ \t katy-components", "contents": "horizontal navigation-facet
+" },{"trigger": "horizontal selected navigation-facet
+ \t katy-components", "contents": "horizontal selected navigation-facet
+" },{"trigger": "view-more-bar
+ \t katy-components", "contents": "view-more-bar
+" },{"trigger": "view-more-bar in-container
+ \t katy-components", "contents": "view-more-bar in-container
+" },{"trigger": "text-input
+ \t katy-components", "contents": "text-input
+" },{"trigger": "chunky text-input
+ \t katy-components", "contents": "chunky text-input
+" },{"trigger": "strong chunky text-input
+ \t katy-components", "contents": "strong chunky text-input
+" },{"trigger": "text-input with-error
+ \t katy-components", "contents": "text-input with-error
+" },{"trigger": "text-input with-textarea
+ \t katy-components", "contents": "text-input with-textarea
+" },{"trigger": "radio-button
+ \t katy-components", "contents": "radio-button
+" },{"trigger": "radio-button in-label
+ \t katy-components", "contents": "radio-button in-label
+" },{"trigger": "checkbox
+ \t katy-components", "contents": "checkbox
+" },{"trigger": "styled-select
+ \t katy-components", "contents": "styled-select
+" },{"trigger": "chunky styled-select
+ \t katy-components", "contents": "chunky styled-select
+" },{"trigger": "styled-select in-sided-form
+ \t katy-components", "contents": "styled-select in-sided-form
+" },{"trigger": "status-toggle
+ \t katy-components", "contents": "status-toggle
+" },{"trigger": "large status-toggle
+ \t katy-components", "contents": "large status-toggle
+" },{"trigger": "top-bar
+ \t katy-components", "contents": "top-bar
+" },{"trigger": "top-bar with-image
+ \t katy-components", "contents": "top-bar with-image
+" },{"trigger": "top-bar with-nav
+ \t katy-components", "contents": "top-bar with-nav
+" },{"trigger": "top-bar with-image with-nav
+ \t katy-components", "contents": "top-bar with-image with-nav
+" },{"trigger": "entityblock
+ \t katy-components", "contents": "entityblock
+" },{"trigger": "standalone entityblock
+ \t katy-components", "contents": "standalone entityblock
+" },{"trigger": "notification entityblock
+ \t katy-components", "contents": "notification entityblock
+" },{"trigger": "entityblock in-identitycard
+ \t katy-components", "contents": "entityblock in-identitycard
+" },{"trigger": "search-entityblock
+ \t katy-components", "contents": "search-entityblock
+" },{"trigger": "medium search-entityblock
+ \t katy-components", "contents": "medium search-entityblock
+" },{"trigger": "small search-entityblock
+ \t katy-components", "contents": "small search-entityblock
+" },{"trigger": "content search-entityblock
+ \t katy-components", "contents": "content search-entityblock
+" },{"trigger": "search-entityblock with-action
+ \t katy-components", "contents": "search-entityblock with-action
+" },{"trigger": "medium search-entityblock with-action
+ \t katy-components", "contents": "medium search-entityblock with-action
+" },{"trigger": "small search-entityblock with-action
+ \t katy-components", "contents": "small search-entityblock with-action
+" },{"trigger": "content search-entityblock with-action
+ \t katy-components", "contents": "content search-entityblock with-action
+" },{"trigger": "toggle
+ \t katy-components", "contents": "toggle
+" },{"trigger": "star toggle
+ \t katy-components", "contents": "star toggle
+" },{"trigger": "entitycard
+ \t katy-components", "contents": "entitycard
+" },{"trigger": "dropdown
+ \t katy-components", "contents": "dropdown
+" },{"trigger": "select
+ \t katy-components", "contents": "select
+" },{"trigger": "error select
+ \t katy-components", "contents": "error select
+" },{"trigger": "flyout-trigger
+ \t katy-components", "contents": "flyout-trigger
+" },{"trigger": "bordered flyout-trigger
+ \t katy-components", "contents": "bordered flyout-trigger
+" },{"trigger": "flyout-trigger in-dropdown
+ \t katy-components", "contents": "flyout-trigger in-dropdown
+" },{"trigger": "north flyout-trigger
+ \t katy-components", "contents": "north flyout-trigger
+" },{"trigger": "north-west flyout-trigger
+ \t katy-components", "contents": "north-west flyout-trigger
+" },{"trigger": "north-east flyout-trigger
+ \t katy-components", "contents": "north-east flyout-trigger
+" },{"trigger": "south-west flyout-trigger
+ \t katy-components", "contents": "south-west flyout-trigger
+" },{"trigger": "south-east flyout-trigger
+ \t katy-components", "contents": "south-east flyout-trigger
+" },{"trigger": "west-north flyout-trigger
+ \t katy-components", "contents": "west-north flyout-trigger
+" },{"trigger": "west-south flyout-trigger
+ \t katy-components", "contents": "west-south flyout-trigger
+" },{"trigger": "east-north flyout-trigger
+ \t katy-components", "contents": "east-north flyout-trigger
+" },{"trigger": "east-south flyout-trigger
+ \t katy-components", "contents": "east-south flyout-trigger
+" },{"trigger": "flyout-trigger without-shadow
+ \t katy-components", "contents": "flyout-trigger without-shadow
+" },{"trigger": "flyout-trigger in-identitycard
+ \t katy-components", "contents": "flyout-trigger in-identitycard
+" },{"trigger": "pill
+ \t katy-components", "contents": "pill
+" },{"trigger": "alternative pill
+ \t katy-components", "contents": "alternative pill
+" },{"trigger": "pill in-module
+ \t katy-components", "contents": "pill in-module
+" },{"trigger": "alternative pill in-module
+ \t katy-components", "contents": "alternative pill in-module
+" },{"trigger": "pill in-dark
+ \t katy-components", "contents": "pill in-dark
+" },{"trigger": "alternative pill in-dark
+ \t katy-components", "contents": "alternative pill in-dark
+" },{"trigger": "pill in-punchcut
+ \t katy-components", "contents": "pill in-punchcut
+" },{"trigger": "alternative pill in-punchcut
+ \t katy-components", "contents": "alternative pill in-punchcut
+" },{"trigger": "pill in-bristol
+ \t katy-components", "contents": "pill in-bristol
+" },{"trigger": "alternative pill in-bristol
+ \t katy-components", "contents": "alternative pill in-bristol
+" },{"trigger": "logo
+ \t katy-components", "contents": "logo
+" },{"trigger": "premium logo
+ \t katy-components", "contents": "premium logo
+" },{"trigger": "premium nav logo
+ \t katy-components", "contents": "premium nav logo
+" },{"trigger": "double-slider-legend
+ \t katy-components", "contents": "double-slider-legend
+" },{"trigger": "double-slider-container
+ \t katy-components", "contents": "double-slider-container
+" },{"trigger": "slider
+ \t katy-components", "contents": "slider
+" },{"trigger": "ghost
+ \t katy-components", "contents": "ghost
+" },{"trigger": "spotlight ghost
+ \t katy-components", "contents": "spotlight ghost
+" },{"trigger": "person ghost
+ \t katy-components", "contents": "person ghost
+" },{"trigger": "school ghost
+ \t katy-components", "contents": "school ghost
+" },{"trigger": "company ghost
+ \t katy-components", "contents": "company ghost
+" },{"trigger": "mask
+ \t katy-components", "contents": "mask
+" },{"trigger": "visible mask
+ \t katy-components", "contents": "visible mask
+" },{"trigger": "light mask
+ \t katy-components", "contents": "light mask
+" },{"trigger": "visible light mask
+ \t katy-components", "contents": "visible light mask
+" },{"trigger": "mask on-body
+ \t katy-components", "contents": "mask on-body
+" },{"trigger": "mask in-identitycard
+ \t katy-components", "contents": "mask in-identitycard
+" },{"trigger": "light mask in-identitycard
+ \t katy-components", "contents": "light mask in-identitycard
+" },{"trigger": "identitycard
+ \t katy-components", "contents": "identitycard
+" },{"trigger": "identitycard with-mask
+ \t katy-components", "contents": "identitycard with-mask
+" },{"trigger": "identitycard with-mask on-hover
+ \t katy-components", "contents": "identitycard with-mask on-hover
+" },{"trigger": "blank identitycard
+ \t katy-components", "contents": "blank identitycard
+" },{"trigger": "one-quarter identitycard
+ \t katy-components", "contents": "one-quarter identitycard
+" },{"trigger": "half identitycard
+ \t katy-components", "contents": "half identitycard
+" },{"trigger": "three-quarter identitycard
+ \t katy-components", "contents": "three-quarter identitycard
+" },{"trigger": "one-third identitycard
+ \t katy-components", "contents": "one-third identitycard
+" },{"trigger": "two-third identitycard
+ \t katy-components", "contents": "two-third identitycard
+" },{"trigger": "full-width identitycard
+ \t katy-components", "contents": "full-width identitycard
+" },{"trigger": "identitycard in-list
+ \t katy-components", "contents": "identitycard in-list
+" },{"trigger": "identitycard in-container
+ \t katy-components", "contents": "identitycard in-container
+" },{"trigger": "visible identitycard in-container
+ \t katy-components", "contents": "visible identitycard in-container
+" },{"trigger": "hiding identitycard in-container
+ \t katy-components", "contents": "hiding identitycard in-container
+" },{"trigger": "head in-identitycard
+ \t katy-components", "contents": "head in-identitycard
+" },{"trigger": "short head in-identitycard
+ \t katy-components", "contents": "short head in-identitycard
+" },{"trigger": "head with-mask in-identitycard
+ \t katy-components", "contents": "head with-mask in-identitycard
+" },{"trigger": "head with-mask on-hover in-identitycard
+ \t katy-components", "contents": "head with-mask on-hover in-identitycard
+" },{"trigger": "head with-light with-mask in-identitycard
+ \t katy-components", "contents": "head with-light with-mask in-identitycard
+" },{"trigger": "head with-light with-mask on-hover in-identitycard
+ \t katy-components", "contents": "head with-light with-mask on-hover in-identitycard
+" },{"trigger": "card-body in-identitycard
+ \t katy-components", "contents": "card-body in-identitycard
+" },{"trigger": "action in-identitycard
+ \t katy-components", "contents": "action in-identitycard
+" },{"trigger": "primary action in-identitycard
+ \t katy-components", "contents": "primary action in-identitycard
+" },{"trigger": "disabled action in-identitycard
+ \t katy-components", "contents": "disabled action in-identitycard
+" },{"trigger": "completed action in-identitycard
+ \t katy-components", "contents": "completed action in-identitycard
+" },{"trigger": "secondary action in-identitycard
+ \t katy-components", "contents": "secondary action in-identitycard
+" },{"trigger": "aside in-identitycard
+ \t katy-components", "contents": "aside in-identitycard
+" },{"trigger": "visible aside in-identitycard
+ \t katy-components", "contents": "visible aside in-identitycard
+" },{"trigger": "small aside in-identitycard
+ \t katy-components", "contents": "small aside in-identitycard
+" },{"trigger": "medium aside in-identitycard
+ \t katy-components", "contents": "medium aside in-identitycard
+" },{"trigger": "large aside in-identitycard
+ \t katy-components", "contents": "large aside in-identitycard
+" },{"trigger": "left aside in-identitycard
+ \t katy-components", "contents": "left aside in-identitycard
+" },{"trigger": "right aside in-identitycard
+ \t katy-components", "contents": "right aside in-identitycard
+" },{"trigger": "top aside in-identitycard
+ \t katy-components", "contents": "top aside in-identitycard
+" },{"trigger": "dialog in-identitycard
+ \t katy-components", "contents": "dialog in-identitycard
+" },{"trigger": "message person dialog in-identitycard
+ \t katy-components", "contents": "message person dialog in-identitycard
+" },{"trigger": "connect person dialog in-identitycard
+ \t katy-components", "contents": "connect person dialog in-identitycard
+" },{"trigger": "primary-action form in-identitycard
+ \t katy-components", "contents": "primary-action form in-identitycard
+" },{"trigger": "tab-container
+ \t katy-components", "contents": "tab-container
+" },{"trigger": "embedded tab-container
+ \t katy-components", "contents": "embedded tab-container
+" },{"trigger": "detached tab-container
+ \t katy-components", "contents": "detached tab-container
+" },{"trigger": "tab
+ \t katy-components", "contents": "tab
+" },{"trigger": "quad-tab in-default-container
+ \t katy-components", "contents": "quad-tab in-default-container
+" },{"trigger": "quad-tab in-detached-container
+ \t katy-components", "contents": "quad-tab in-detached-container
+" },{"trigger": "quad-tab in-embedded-container
+ \t katy-components", "contents": "quad-tab in-embedded-container
+" },{"trigger": "triple-tab in-detached-container
+ \t katy-components", "contents": "triple-tab in-detached-container
+" },{"trigger": "triple-tab in-embedded-container
+ \t katy-components", "contents": "triple-tab in-embedded-container
+" },{"trigger": "double-tab in-detached-container
+ \t katy-components", "contents": "double-tab in-detached-container
+" },{"trigger": "selected tab
+ \t katy-components", "contents": "selected tab
+" },{"trigger": "accented tab
+ \t katy-components", "contents": "accented tab
+" },{"trigger": "tab-panel
+ \t katy-components", "contents": "tab-panel
+" },{"trigger": "tab-panel-item
+ \t katy-components", "contents": "tab-panel-item
+" },{"trigger": "selected tab-panel-item
+ \t katy-components", "contents": "selected tab-panel-item
+" },{"trigger": "embedded tab-panel-item
+ \t katy-components", "contents": "embedded tab-panel-item
+" },{"trigger": "blockquote
+ \t katy-components", "contents": "blockquote
+" },{"trigger": "small blockquote
+ \t katy-components", "contents": "small blockquote
+" },{"trigger": "large blockquote
+ \t katy-components", "contents": "large blockquote
+" },{"trigger": "blockquote in-dark
+ \t katy-components", "contents": "blockquote in-dark
+" },{"trigger": "blockquote in-bristol
+ \t katy-components", "contents": "blockquote in-bristol
+" },{"trigger": "blockquote in-punchcut
+ \t katy-components", "contents": "blockquote in-punchcut
+" }]}
